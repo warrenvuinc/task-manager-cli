@@ -4,6 +4,9 @@
 - Python 3.12+
 - uv
 
+## Link project: 
+- https://roadmap.sh/projects/task-tracker
+
 ---
 
 ## ⚙️ Setup
