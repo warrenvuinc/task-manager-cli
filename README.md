@@ -24,7 +24,7 @@ uv sync
 ```
 
 
-### 3. Run docker
+### 3. Activate 
 ```bash
 source .venv/bin/activate
 ```
