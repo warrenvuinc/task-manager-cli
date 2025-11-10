@@ -1,0 +1,11 @@
+[project]
+name = "task-manager-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+
+[project.scripts]
+nigel = "nigel.tasks_manager:main"
